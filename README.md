@@ -24,3 +24,8 @@ A modern, full-stack web application designed to simplify shared expenses. Built
 1. Navigate to the backend directory: `cd splitwise-api`
 2. Install dependencies: `pip install fastapi "uvicorn[standard]" python-multipart`
 3. Start the FastAPI server: `uvicorn main:app --reload`
+
+
+
+<img width="2235" height="1398" alt="image" src="https://github.com/user-attachments/assets/42b2c977-8789-415d-a884-5dbc926d6db4" />
+<img width="2238" height="1398" alt="image" src="https://github.com/user-attachments/assets/39ccf275-536a-4d92-adc6-e841fcc8fe54" />
